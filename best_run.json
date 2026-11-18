@@ -1,0 +1,7 @@
+{
+  "run_id": "703965c83dab4772acd7ae3d0e23a422",
+  "run_name": "gradient_boosting",
+  "accuracy": 0.869,
+  "recall": 0.4939,
+  "f1": 0.6054
+}
